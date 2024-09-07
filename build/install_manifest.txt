@@ -1,0 +1,6 @@
+/usr/local/bin/method_json
+/usr/share/dbus-1/system-services/com.example.MyService.service
+/etc/systemd/system/com.example.MyService.service
+/etc/dbus-1/system.d/com.example.MyService.conf
+/usr/share/polkit-1/actions/com.example.MyService.policy
+/usr/local/share/method_json/data.json
